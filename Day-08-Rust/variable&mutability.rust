@@ -1,0 +1,5 @@
+fn main() {
+    let mut fuel = 50;
+    fuel += 25;
+    println!("fuel level: {}", fuel);
+}
